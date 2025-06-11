@@ -1,7 +1,7 @@
 # Examen Prog-5 — Mario Kart Simulator
 **Durée : 2 heures**  
 **Langage libre** (Python, Java, TypeScript, Javascript, php, go,  etc.)  
-**Cahier de leçons autorisé – Internet autorisé - IA strictement interdit **
+**Cahier de leçons autorisé – Internet autorisé - IA strictement interdit**
 
 ---
 
